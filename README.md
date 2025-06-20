@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0Kirill
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with a company ready to work remotely
 - 📫 How to reach me ...
 
